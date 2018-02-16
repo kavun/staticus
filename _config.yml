@@ -1,9 +1,10 @@
-url: https://staticus.narro.co
-author: NarroApp
-email: support@narro.co
+url: https://kevinareed.com/staticus
+author: Kevin Reed
+email: kevin.a.reed@gmail.com
 title: Staticus
-description: The status page for the Narro API and services
-homepage: https://www.narro.co
+description: The status page for Kevin
+homepage: https://kevinareed.com
+baseurl: /staticus
 
 permalink: pretty
 uptime_days: 60
